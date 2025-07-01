@@ -7,18 +7,5 @@ I'm a 23 year old brazilian trans woman and computer engineering student on her 
   - French: learning! I'm a beginner so far
   - Japanese: On hold, I'm a beginner here too
 - How to reach me:
-  - linkedin: *emmaa7*
+  - linkedin: [emmaa7](https://www.linkedin.com/in/emmaa7/)
   - email: [emma.pju@tuta.io](emma.pju@tuta.io)
-<!--
-**emmaa5/emmaa5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
