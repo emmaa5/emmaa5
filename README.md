@@ -1,5 +1,5 @@
 ## Hello, I'm Emma!
-I'm a 23 year old brazilian trans woman and computer engineering student on her third year. I am very passionate about cybersecurity, so I've been studying it by myself, any advice is very valuable! I also do front end development with a hint of UX/UI design, I am primarly self taught, it's been 4 years since I started my coding journey, although I did tinker with Unity a year earlier, so maybe 5?
+I'm a 23 year old brazilian trans woman and computer engineering student on her third year. I am very passionate about cybersecurity, so I've been studying it by myself, any advice is very valuable! I am a self-taught front end developer, having 4 years of coding experience, although I did tinker with Unity a year earlier, so maybe 5?
 - Pronouns: she/her
 - Languages
   - English: fluent
@@ -9,3 +9,6 @@ I'm a 23 year old brazilian trans woman and computer engineering student on her 
 - How to reach me:
   - linkedin: [emmaa7](https://www.linkedin.com/in/emmaa7/)
   - email: [emma.pju@tuta.io](emma.pju@tuta.io)
+
+## Tryhackme profile
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5083876" style='border:none;'></iframe>
